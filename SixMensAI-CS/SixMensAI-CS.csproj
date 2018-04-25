@@ -46,6 +46,7 @@
     <Compile Include="Main.cs" />
     <Compile Include="AI.cs" />
     <Compile Include="Network.cs" />
+    <Compile Include="NeworkClient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
